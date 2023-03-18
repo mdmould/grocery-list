@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-name = 'grocery-list'
-version = '0.0.1'
+name = 'grocery_list'
+version = '0.0.2'
 
 with open('README.md' ,'r') as f:
     long_description = f.read().strip()
