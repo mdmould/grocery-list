@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-name = 'pythonpackage'
+name = 'grocery-list'
 version = '0.0.1'
 
 with open('README.md' ,'r') as f:
