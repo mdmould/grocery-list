@@ -1,8 +1,12 @@
 recipes = {
-    'beans on toast': [
+    'toast': [
         'bread',
-        'baked beans',
         'butter',
+        ],
+
+    'beans on toast': [
+        'toast',
+        'baked beans',
         ],
     }
 
